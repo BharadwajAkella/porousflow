@@ -1,0 +1,11 @@
+﻿Build started 8/9/2015 3:57:30 PM.
+     1>Project "C:\Users\TEMP\Downloads\libconfig-1.5\lib\libconfig++.vcxproj" on node 3 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Users\TEMP\Downloads\libconfig-1.5\Debug\libconfig++.dll) does not match the Linker's OutputFile property value (C:\Users\TEMP\Downloads\libconfig-1.5\Debug\libconfig++_d.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(libconfig++) does not match the Linker's OutputFile property value (libconfig++_d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         libconfig++.vcxproj -> C:\Users\TEMP\Downloads\libconfig-1.5\Debug\libconfig++.dll
+     1>Done Building Project "C:\Users\TEMP\Downloads\libconfig-1.5\lib\libconfig++.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

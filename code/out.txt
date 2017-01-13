@@ -1,0 +1,2366 @@
+GL version: 4.4.0
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.395
+
+
+mass before update --> 442.395
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.394
+
+
+mass before update --> 442.394
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.393
+
+
+mass before update --> 442.393
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.392
+
+
+mass before update --> 442.392
+
+mass after update --> 442.391
+
+
+mass before update --> 442.391
+
+mass after update --> 442.391
+
+
+mass before update --> 442.391
+
+mass after update --> 442.39
+
+
+mass before update --> 442.39
+
+mass after update --> 442.39
+
+
+mass before update --> 442.39
+
+mass after update --> 442.389
+
+
+mass before update --> 442.389
+
+mass after update --> 442.389
+
+
+mass before update --> 442.389
+
+mass after update --> 442.389
+
+
+mass before update --> 442.389
+
+mass after update --> 442.388
+
+
+mass before update --> 442.388
+
+mass after update --> 442.388
+
+
+mass before update --> 442.388
+
+mass after update --> 442.387
+
+
+mass before update --> 442.387
+
+mass after update --> 442.387
+
+
+mass before update --> 442.387
+
+mass after update --> 442.386
+
+
+mass before update --> 442.386
+
+mass after update --> 442.386
+
+
+mass before update --> 442.386
+
+mass after update --> 442.386
+
+
+mass before update --> 442.386
+
+mass after update --> 442.385
+
+
+mass before update --> 442.385
+
+mass after update --> 442.385
+
+
+mass before update --> 442.385
+
+mass after update --> 442.385
+
+
+mass before update --> 442.385
+
+mass after update --> 442.384
+
+
+mass before update --> 442.384
+
+mass after update --> 442.384
+
+
+mass before update --> 442.384
+
+mass after update --> 442.383
+
+
+mass before update --> 442.383
+
+mass after update --> 442.383
+
+
+mass before update --> 442.383
+
+mass after update --> 442.382
+
+
+mass before update --> 442.382
+
+mass after update --> 442.382
+
+
+mass before update --> 442.382
+
+mass after update --> 442.381
+
+
+mass before update --> 442.381
+
+mass after update --> 442.381
+
+
+mass before update --> 442.381
+
+mass after update --> 442.38
+
+
+mass before update --> 442.38
+
+mass after update --> 442.38
+
+
+mass before update --> 442.38
+
+mass after update --> 442.38
+
+
+mass before update --> 442.38
+
+mass after update --> 442.379
+
+
+mass before update --> 442.379
+
+mass after update --> 442.379
+
+
+mass before update --> 442.379
+
+mass after update --> 442.378
+
+
+mass before update --> 442.378
+
+mass after update --> 442.378
+
+
+mass before update --> 442.378
+
+mass after update --> 442.378
+
+
+mass before update --> 442.378
+
+mass after update --> 442.377
+
+
+mass before update --> 442.377
+
+mass after update --> 442.377
+
+
+mass before update --> 442.377
+
+mass after update --> 442.376
+
+
+mass before update --> 442.376
+
+mass after update --> 442.376
+
+
+mass before update --> 442.376
+
+mass after update --> 442.376
+
+
+mass before update --> 442.376
+
+mass after update --> 442.375
+
+
+mass before update --> 442.375
+
+mass after update --> 442.375
+
+
+mass before update --> 442.375
+
+mass after update --> 442.375
+
+
+mass before update --> 442.375
+
+mass after update --> 442.374
+
+
+mass before update --> 442.374
+
+mass after update --> 442.374
+
+
+mass before update --> 442.374
+
+mass after update --> 442.373
+
+
+mass before update --> 442.373
+
+mass after update --> 442.373
+
+
+mass before update --> 442.373
+
+mass after update --> 442.373
+
+
+mass before update --> 442.373
+
+mass after update --> 442.372
+
+
+mass before update --> 442.372
+
+mass after update --> 442.372
+
+
+mass before update --> 442.372
+
+mass after update --> 442.372
+
+
+mass before update --> 442.372
+
+mass after update --> 442.371
+
+
+mass before update --> 442.371
+
+mass after update --> 442.371
+
+
+mass before update --> 442.371
+
+mass after update --> 442.371
+
+
+mass before update --> 442.371
+
+mass after update --> 442.37
+
+
+mass before update --> 442.37
+
+mass after update --> 442.37
+
+
+mass before update --> 442.37
+
+mass after update --> 442.37
+
+
+mass before update --> 442.37
+
+mass after update --> 442.369
+
+
+mass before update --> 442.369
+
+mass after update --> 442.369
+
+
+mass before update --> 442.369
+
+mass after update --> 442.369
+
+
+mass before update --> 442.369
+
+mass after update --> 442.368
+
+
+mass before update --> 442.368
+
+mass after update --> 442.368
+
+
+mass before update --> 442.368
+
+mass after update --> 442.368
+
+
+mass before update --> 442.368
+
+mass after update --> 442.367
+
+
+mass before update --> 442.367
+
+mass after update --> 442.367
+
+
+mass before update --> 442.367
+
+mass after update --> 442.367
+
+
+mass before update --> 442.367
+
+mass after update --> 442.366
+
+
+mass before update --> 442.366
+
+mass after update --> 442.366
+
+
+mass before update --> 442.366
+
+mass after update --> 442.366
+
+
+mass before update --> 442.366
+
+mass after update --> 442.365
+
+
+mass before update --> 442.365
+
+mass after update --> 442.365
+
+
+mass before update --> 442.365
+
+mass after update --> 442.365
+
+
+mass before update --> 442.365
+
+mass after update --> 442.365
+
+
+mass before update --> 442.365
+
+mass after update --> 442.364
+
+
+mass before update --> 442.364
+
+mass after update --> 442.364
+
+
+mass before update --> 442.364
+
+mass after update --> 442.363
+
+
+mass before update --> 442.363
+
+mass after update --> 442.362
+
+
+mass before update --> 442.362
+
+mass after update --> 442.361
+
+
+mass before update --> 442.361
+
+mass after update --> 442.36
+
+
+mass before update --> 442.36
+
+mass after update --> 442.359
+
+
+mass before update --> 442.359
+
+mass after update --> 442.358
+
+
+mass before update --> 442.358
+
+mass after update --> 442.357
+
+
+mass before update --> 442.357
+
+mass after update --> 442.356
+
+
+mass before update --> 442.356
+
+mass after update --> 442.355
+
+
+mass before update --> 442.355
+
+mass after update --> 442.354
+
+
+mass before update --> 442.354
+
+mass after update --> 442.353
+
+
+mass before update --> 442.353
+
+mass after update --> 442.352
+
+
+mass before update --> 442.352
+
+mass after update --> 442.351
+
+
+mass before update --> 442.351
+
+mass after update --> 442.35
+
+
+mass before update --> 442.35
+
+mass after update --> 442.35
+
+
+mass before update --> 442.35
+
+mass after update --> 442.349
+
+
+mass before update --> 442.349
+
+mass after update --> 442.348
+
+
+mass before update --> 442.348
+
+mass after update --> 442.347
+
+
+mass before update --> 442.347
+
+mass after update --> 442.346
+
+
+mass before update --> 442.346
+
+mass after update --> 442.345
+
+
+mass before update --> 442.345
+
+mass after update --> 442.344
+
+
+mass before update --> 442.344
+
+mass after update --> 442.343
+
+
+mass before update --> 442.343
+
+mass after update --> 442.342
+
+
+mass before update --> 442.342
+
+mass after update --> 442.342
+
+
+mass before update --> 442.342
+
+mass after update --> 442.341
+
+
+mass before update --> 442.341
+
+mass after update --> 442.34
+
+
+mass before update --> 442.34
+
+mass after update --> 442.339
+
+
+mass before update --> 442.339
+
+mass after update --> 442.338
+
+
+mass before update --> 442.338
+
+mass after update --> 442.337
+
+
+mass before update --> 442.337
+
+mass after update --> 442.336
+
+
+mass before update --> 442.336
+
+mass after update --> 442.336
+
+
+mass before update --> 442.336
+
+mass after update --> 442.335
+
+
+mass before update --> 442.335
+
+mass after update --> 442.334
+
+
+mass before update --> 442.334
+
+mass after update --> 442.333
+
+
+mass before update --> 442.333
+
+mass after update --> 442.332
+
+
+mass before update --> 442.332
+
+mass after update --> 442.331
+
+
+mass before update --> 442.331
+
+mass after update --> 442.331
+
+
+mass before update --> 442.331
+
+mass after update --> 442.33
+
+
+mass before update --> 442.33
+
+mass after update --> 442.329
+
+
+mass before update --> 442.329
+
+mass after update --> 442.328
+
+
+mass before update --> 442.328
+
+mass after update --> 442.327
+
+
+mass before update --> 442.327
+
+mass after update --> 442.327
+
+
+mass before update --> 442.327
+
+mass after update --> 442.326
+
+
+mass before update --> 442.326
+
+mass after update --> 442.324
+
+
+mass before update --> 442.324
+
+mass after update --> 442.323
+
+
+mass before update --> 442.323
+
+mass after update --> 442.321
+
+
+mass before update --> 442.321
+
+mass after update --> 442.32
+
+
+mass before update --> 442.32
+
+mass after update --> 442.318
+
+
+mass before update --> 442.318
+
+mass after update --> 442.316
+
+
+mass before update --> 442.316
+
+mass after update --> 442.315
+
+
+mass before update --> 442.315
+
+mass after update --> 442.313
+
+
+mass before update --> 442.313
+
+mass after update --> 442.311
+
+
+mass before update --> 442.311
+
+mass after update --> 442.309
+
+
+mass before update --> 442.309
+
+mass after update --> 442.308
+
+
+mass before update --> 442.308
+
+mass after update --> 442.306
+
+
+mass before update --> 442.306
+
+mass after update --> 442.304
+
+
+mass before update --> 442.304
+
+mass after update --> 442.302
+
+
+mass before update --> 442.302
+
+mass after update --> 442.301
+
+
+mass before update --> 442.301
+
+mass after update --> 442.299
+
+
+mass before update --> 442.299
+
+mass after update --> 442.297
+
+
+mass before update --> 442.297
+
+mass after update --> 442.296
+
+
+mass before update --> 442.296
+
+mass after update --> 442.294
+
+
+mass before update --> 442.294
+
+mass after update --> 442.292
+
+
+mass before update --> 442.292
+
+mass after update --> 442.29
+
+
+mass before update --> 442.29
+
+mass after update --> 442.289
+
+
+mass before update --> 442.289
+
+mass after update --> 442.287
+
+
+mass before update --> 442.287
+
+mass after update --> 442.286
+
+
+mass before update --> 442.286
+
+mass after update --> 442.284
+
+
+mass before update --> 442.284
+
+mass after update --> 442.282
+
+
+mass before update --> 442.282
+
+mass after update --> 442.281
+
+
+mass before update --> 442.281
+
+mass after update --> 442.279
+
+
+mass before update --> 442.279
+
+mass after update --> 442.277
+
+
+mass before update --> 442.277
+
+mass after update --> 442.276
+
+
+mass before update --> 442.276
+
+mass after update --> 442.274
+
+
+mass before update --> 442.274
+
+mass after update --> 442.273
+
+
+mass before update --> 442.273
+
+mass after update --> 442.271
+
+
+mass before update --> 442.271
+
+mass after update --> 442.269
+
+
+mass before update --> 442.269
+
+mass after update --> 442.268
+
+
+mass before update --> 442.268
+
+mass after update --> 442.266
+
+
+mass before update --> 442.266
+
+mass after update --> 442.265
+
+
+mass before update --> 442.265
+
+mass after update --> 442.263
+
+
+mass before update --> 442.263
+
+mass after update --> 442.262
+
+
+mass before update --> 442.262
+
+mass after update --> 442.26
+
+
+mass before update --> 442.26
+
+mass after update --> 442.259
+
+
+mass before update --> 442.259
+
+mass after update --> 442.257
+
+
+mass before update --> 442.257
+
+mass after update --> 442.255
+
+
+mass before update --> 442.255
+
+mass after update --> 442.254
+
+
+mass before update --> 442.254
+
+mass after update --> 442.253
+
+
+mass before update --> 442.253
+
+mass after update --> 442.251
+
+
+mass before update --> 442.251
+
+mass after update --> 442.249
+
+
+mass before update --> 442.249
+
+mass after update --> 442.248
+
+
+mass before update --> 442.248
+
+mass after update --> 442.246
+
+
+mass before update --> 442.246
+
+mass after update --> 442.245
+
+
+mass before update --> 442.245
+
+mass after update --> 442.243
+
+
+mass before update --> 442.243
+
+mass after update --> 442.242
+
+
+mass before update --> 442.242
+
+mass after update --> 442.24
+
+
+mass before update --> 442.24
+
+mass after update --> 442.239
+
+
+mass before update --> 442.239
+
+mass after update --> 442.238
+
+
+mass before update --> 442.238
+
+mass after update --> 442.236
+
+
+mass before update --> 442.236
+
+mass after update --> 442.235
+
+
+mass before update --> 442.235
+
+mass after update --> 442.233
+
+
+mass before update --> 442.233
+
+mass after update --> 442.232
+
+
+mass before update --> 442.232
+
+mass after update --> 442.23
+
+
+mass before update --> 442.23
+
+mass after update --> 442.229
+
+
+mass before update --> 442.229
+
+mass after update --> 442.228
+
+
+mass before update --> 442.228
+
+mass after update --> 442.226
+
+
+mass before update --> 442.226
+
+mass after update --> 442.225
+
+
+mass before update --> 442.225
+
+mass after update --> 442.223
+
+
+mass before update --> 442.223
+
+mass after update --> 442.222
+
+
+mass before update --> 442.222
+
+mass after update --> 442.22
+
+
+mass before update --> 442.22
+
+mass after update --> 442.219
+
+
+mass before update --> 442.219
+
+mass after update --> 442.218
+
+
+mass before update --> 442.218
+
+mass after update --> 442.216
+
+
+mass before update --> 442.216
+
+mass after update --> 442.215
+
+
+mass before update --> 442.215
+
+mass after update --> 442.214
+
+
+mass before update --> 442.214
+
+mass after update --> 442.212
+
+
+mass before update --> 442.212
+
+mass after update --> 442.211
+
+
+mass before update --> 442.211
+
+mass after update --> 442.209
+
+
+mass before update --> 442.209
+
+mass after update --> 442.208
+
+
+mass before update --> 442.208
+
+mass after update --> 442.207
+
+
+mass before update --> 442.207
+
+mass after update --> 442.205
+
+
+mass before update --> 442.205
+
+mass after update --> 442.204
+
+
+mass before update --> 442.204
+
+mass after update --> 442.203
+
+
+mass before update --> 442.203
+
+mass after update --> 442.201
+
+
+mass before update --> 442.201
+
+mass after update --> 442.2
+
+
+mass before update --> 442.2
+
+mass after update --> 442.199
+
+
+mass before update --> 442.199
+
+mass after update --> 442.197
+
+
+mass before update --> 442.197
+
+mass after update --> 442.196
+
+
+mass before update --> 442.196
+
+mass after update --> 442.195
+
+
+mass before update --> 442.195
+
+mass after update --> 442.194
+
+
+mass before update --> 442.194
+
+mass after update --> 442.194
+
+
+mass before update --> 442.194
+
+mass after update --> 442.193
+
+
+mass before update --> 442.193
+
+mass after update --> 442.192
+
+
+mass before update --> 442.192
+
+mass after update --> 442.191
+
+
+mass before update --> 442.191
+
+mass after update --> 442.191
+
+
+mass before update --> 442.191
+
+mass after update --> 442.19
+
+
+mass before update --> 442.19
+
+mass after update --> 442.189
+
+
+mass before update --> 442.189
+
+mass after update --> 442.188
+
+
+mass before update --> 442.188
+
+mass after update --> 442.188
+
+
+mass before update --> 442.188
+
+mass after update --> 442.187
+
+
+mass before update --> 442.187
+
+mass after update --> 442.186
+
+
+mass before update --> 442.186
+
+mass after update --> 442.185
+
+
+mass before update --> 442.185
+
+mass after update --> 442.185
+
+
+mass before update --> 442.185
+
+mass after update --> 442.184
+
+
+mass before update --> 442.184
+
+mass after update --> 442.183
+
+
+mass before update --> 442.183
+
+mass after update --> 442.182
+
+
+mass before update --> 442.182
+
+mass after update --> 442.182
+
+
+mass before update --> 442.182
+
+mass after update --> 442.181
+
+
+mass before update --> 442.181
+
+mass after update --> 442.18
+
+
+mass before update --> 442.18
+
+mass after update --> 442.18
+
+
+mass before update --> 442.18
+
+mass after update --> 442.179
+
+
+mass before update --> 442.179
+
+mass after update --> 442.178
+
+
+mass before update --> 442.178
+
+mass after update --> 442.177
+
+
+mass before update --> 442.177
+
+mass after update --> 442.177
+
+
+mass before update --> 442.177
+
+mass after update --> 442.176
+
+
+mass before update --> 442.176
+
+mass after update --> 442.175
+
+
+mass before update --> 442.175
+
+mass after update --> 442.174
+
+
+mass before update --> 442.174
+
+mass after update --> 442.174
+
+
+mass before update --> 442.174
+
+mass after update --> 442.173
+
+
+mass before update --> 442.173
+
+mass after update --> 442.172
+
+
+mass before update --> 442.172
+
+mass after update --> 442.172
+
+
+mass before update --> 442.172
+
+mass after update --> 442.171
+
+
+mass before update --> 442.171
+
+mass after update --> 442.17
+
+
+mass before update --> 442.17
+
+mass after update --> 442.17
+
+
+mass before update --> 442.17
+
+mass after update --> 442.169
+
+
+mass before update --> 442.169
+
+mass after update --> 442.168
+
+
+mass before update --> 442.168
+
+mass after update --> 442.168
+
+
+mass before update --> 442.168
+
+mass after update --> 442.168
+
+
+mass before update --> 442.168
+
+mass after update --> 442.167
+
+
+mass before update --> 442.167
+
+mass after update --> 442.167
+
+
+mass before update --> 442.167
+
+mass after update --> 442.167
+
+
+mass before update --> 442.167
+
+mass after update --> 442.167
+
+
+mass before update --> 442.167
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.166
+
+
+mass before update --> 442.166
+
+mass after update --> 442.165
+
+
+mass before update --> 442.165
+
+mass after update --> 442.165
+
+
+mass before update --> 442.165
+
+mass after update --> 442.165
+
+
+mass before update --> 442.165
+
+mass after update --> 442.165
+
+
+mass before update --> 442.165
+
+mass after update --> 442.165
+
+
+mass before update --> 442.165
+
+mass after update --> 442.165
+
+
+mass before update --> 442.165
+
+mass after update --> 442.164
+
+
+mass before update --> 442.164
+
+mass after update --> 442.164
+
+
+mass before update --> 442.164
+
+mass after update --> 442.164
+
+
+mass before update --> 442.164
+
+mass after update --> 442.163
+
+
+mass before update --> 442.163
+
+mass after update --> 442.163
+
+
+mass before update --> 442.163
+
+mass after update --> 442.162
+
+
+mass before update --> 442.162
+
+mass after update --> 442.161
+
+
+mass before update --> 442.161
+
+mass after update --> 442.161
+
+
+mass before update --> 442.161
+
+mass after update --> 442.16
+
+
+mass before update --> 442.16
+
+mass after update --> 442.16
+
+
+mass before update --> 442.16
+
+mass after update --> 442.159
+
+
+mass before update --> 442.159
+
+mass after update --> 442.158
+
+
+mass before update --> 442.158
+
+mass after update --> 442.157
+
+
+mass before update --> 442.157
+
+mass after update --> 442.157
+
+
+mass before update --> 442.157
+
+mass after update --> 442.156
+
+
+mass before update --> 442.156
+
+mass after update --> 442.155
+
+
+mass before update --> 442.155
+
+mass after update --> 442.154
+
+
+mass before update --> 442.154
+
+mass after update --> 442.153
+
+
+mass before update --> 442.153
+
+mass after update --> 442.153
+
+
+mass before update --> 442.153
+
+mass after update --> 442.152
+
+
+mass before update --> 442.152
+
+mass after update --> 442.151
+
+
+mass before update --> 442.151
+
+mass after update --> 442.15
+
+
+mass before update --> 442.15
+
+mass after update --> 442.15
+
+
+mass before update --> 442.15
+
+mass after update --> 442.149
+
+
+mass before update --> 442.149
+
+mass after update --> 442.148
+
+
+mass before update --> 442.148
+
+mass after update --> 442.147
+
+
+mass before update --> 442.147
+
+mass after update --> 442.147
+
+
+mass before update --> 442.147
+
+mass after update --> 442.146
+
+
+mass before update --> 442.146
+
+mass after update --> 442.145
+
+
+mass before update --> 442.145
+
+mass after update --> 442.145
+
+
+mass before update --> 442.145
+
+mass after update --> 442.144
+
+
+mass before update --> 442.144
+
+mass after update --> 442.143
+
+
+mass before update --> 442.143
+
+mass after update --> 442.142
+
+
+mass before update --> 442.142
+
+mass after update --> 442.141
+
+
+mass before update --> 442.141
+
+mass after update --> 442.141
+
+
+mass before update --> 442.141
+
+mass after update --> 442.14
+
+
+mass before update --> 442.14
+
+mass after update --> 442.139
+
+
+mass before update --> 442.139
+
+mass after update --> 442.139
+
+
+mass before update --> 442.139
+
+mass after update --> 442.138
+
+
+mass before update --> 442.138
+
+mass after update --> 442.137
+
+
+mass before update --> 442.137
+
+mass after update --> 442.136
+
+
+mass before update --> 442.136
+
+mass after update --> 442.136
+
+
+mass before update --> 442.136
+
+mass after update --> 442.135
+
+
+mass before update --> 442.135
+
+mass after update --> 442.134
+
+
+mass before update --> 442.134
+
+mass after update --> 442.134
+
+
+mass before update --> 442.134
+
+mass after update --> 442.133
+
+
+mass before update --> 442.133
+
+mass after update --> 442.132
+
+
+mass before update --> 442.132
+
+mass after update --> 442.131
+
+
+mass before update --> 442.131
+
+mass after update --> 442.131
+
+
+mass before update --> 442.131
+
+mass after update --> 442.13
+
+
+mass before update --> 442.13
+
+mass after update --> 442.129
+
+
+mass before update --> 442.129
+
+mass after update --> 442.129
+
+
+mass before update --> 442.129
+
+mass after update --> 442.128
+
+
+mass before update --> 442.128
+
+mass after update --> 442.127
+
+
+mass before update --> 442.127
+
+mass after update --> 442.127
+
+
+mass before update --> 442.127
+
+mass after update --> 442.126
+
+
+mass before update --> 442.126
+
+mass after update --> 442.125
+
+
+mass before update --> 442.125
+
+mass after update --> 442.124
+
+
+mass before update --> 442.124
+
+mass after update --> 442.124
+
+
+mass before update --> 442.124
+
+mass after update --> 442.123
+
+
+mass before update --> 442.123
+
+mass after update --> 442.122
+
+
+mass before update --> 442.122
+
+mass after update --> 442.122
+
+
+mass before update --> 442.122
+
+mass after update --> 442.121
+
+
+mass before update --> 442.121
+
+mass after update --> 442.12
+
+
+mass before update --> 442.12
+
+mass after update --> 442.12
+
+
+mass before update --> 442.12
+
+mass after update --> 442.119
+
+
+mass before update --> 442.119
+
+mass after update --> 442.118
+
+
+mass before update --> 442.118
+
+mass after update --> 442.118
+
+
+mass before update --> 442.118
+
+mass after update --> 442.117
+
+
+mass before update --> 442.117
+
+mass after update --> 442.116
+
+
+mass before update --> 442.116
+
+mass after update --> 442.116
+
+
+mass before update --> 442.116
+
+mass after update --> 442.115
+
+
+mass before update --> 442.115
+
+mass after update --> 442.114
+
+
+mass before update --> 442.114
+
+mass after update --> 442.113
+
+
+mass before update --> 442.113
+
+mass after update --> 442.113
+
+
+mass before update --> 442.113
+
+mass after update --> 442.112
+
+
+mass before update --> 442.112
+
+mass after update --> 442.111
+
+
+mass before update --> 442.111
+
+mass after update --> 442.111
+
+
+mass before update --> 442.111
+
+mass after update --> 442.111
+
+
+mass before update --> 442.111
+
+mass after update --> 442.11
+
+
+mass before update --> 442.11
+
+mass after update --> 442.11
+
+
+mass before update --> 442.11
+
+mass after update --> 442.11
+
+
+mass before update --> 442.11
+
+mass after update --> 442.109
+
+
+mass before update --> 442.109
+
+mass after update --> 442.109
+
+
+mass before update --> 442.109
+
+mass after update --> 442.109
+
+
+mass before update --> 442.109
+
+mass after update --> 442.109
+
+
+mass before update --> 442.109
+
+mass after update --> 442.109
+
+
+mass before update --> 442.109
+
+mass after update --> 442.108
+
+
+mass before update --> 442.108
+
+mass after update --> 442.108
+
+
+mass before update --> 442.108
+
+mass after update --> 442.108
+
+
+mass before update --> 442.108
+
+mass after update --> 442.107
+
+
+mass before update --> 442.107
+
+mass after update --> 442.107
+
+
+mass before update --> 442.107
+
+mass after update --> 442.106
+
+
+mass before update --> 442.106
+
+mass after update --> 442.106
+
+
+mass before update --> 442.106
+
+mass after update --> 442.105
+
+
+mass before update --> 442.105
+
+mass after update --> 442.105
+
+
+mass before update --> 442.105
+
+mass after update --> 442.105
+
+
+mass before update --> 442.105
+
+mass after update --> 442.104
+
+
+mass before update --> 442.104
+
+mass after update --> 442.104
+
+
+mass before update --> 442.104
+
+mass after update --> 442.103
+
+
+mass before update --> 442.103
+
+mass after update --> 442.103
+
+
+mass before update --> 442.103
+
+mass after update --> 442.102
+
+
+mass before update --> 442.102
+
+mass after update --> 442.102
+
+
+mass before update --> 442.102
+
+mass after update --> 442.101
+
+
+mass before update --> 442.101
+
+mass after update --> 442.101
+
